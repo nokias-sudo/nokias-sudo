@@ -20,7 +20,8 @@ Cada problema es un paso más hacia algo mejor.
 
 **SACCO** — *Nombre del proyecto*  
 Sistema de agenda clinica Orellana.
-Es un sistema que gestiona y almacena citas de forma cronologica y en orden.  
+Es un sistema que gestiona y almacena citas de forma cronologica y en orden.
+https://github.com/nokias-sudo/Sistema-de-gesti-n-de-citas-de-la-cl-nica-Orellana-SACCO-.git
 `tecnología` `tecnología`
 
 ---
