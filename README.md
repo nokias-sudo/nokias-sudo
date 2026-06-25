@@ -3,7 +3,6 @@
 # ─── <span style="color:#00f0ff;">Henry Medrano</span> ───
 ### <span style="color:#0091ff;">Estudiante de Desarrollo de Software</span>
 
-![Persona 3 Theme](https://img.shields.io/badge/Persona_3_Theme-0091ff?style=for-the-badge&logo=playstation&logoColor=white)
 
 </div>
 
@@ -13,16 +12,16 @@
 
 Hola. Soy estudiante de desarrollo de software, actualmente construyendo las bases de lo que quiero ser como desarrollador. Me interesa entender cómo funcionan los sistemas por dentro: desde la base de datos hasta lo que ve el usuario.
 
+Aprendo haciendo, me equivoco seguido, y eso está bien.  
+Cada problema es un paso más hacia algo mejor.
 
 ---
 
 ## <span style="color:#00f0ff;">▸</span> Proyectos
 
-### 🔹 **SACCO** — *Sistema de Agenda Clínica Orellana* 
-Es un sistema que gestiona y almacena citas de forma cronológica y ordenada.
-
-* **Repositorio:** [GitHub - SACCO](https://github.com/nokias-sudo/Sistema-de-gesti-n-de-citas-de-la-cl-nica-Orellana-SACCO-.git)
-* **Tecnologías:** ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+### 🔹 **SACCO** — *Sistema de Agenda Clínica Orellana* Es un sistema que gestiona y almacena citas de forma cronológica y ordenada.
+* **Tecnologías:** ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) 
+    ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 ---
 
@@ -38,14 +37,21 @@ Es un sistema que gestiona y almacena citas de forma cronológica y ordenada.
 
 ---
 
-## <span style="color:#00f0ff;">▸</span> Contacto & Info
+## <span style="color:#00f0ff;">▸</span> Contacto
 
-```ini
-[Email]    →  henrymedranog5@gmail.com
-[GitHub]   →  [github.com/nokias-sudo](https://github.com/nokias-sudo)
-[Contacto] →  7016-2253
+```
+Email     →   henrymedranog5@gmail.com
+GitHub    →   github.com/nokias-sudo
+Contacto → 7016-2253
+```
 
-;; ---------------------------
-;; ☾ memento mori.
-;; ---------------------------
+---
+
+<div align="center">
+
+```
+☾  memento mori
+```
+
+</div>
 
